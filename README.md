@@ -4,10 +4,6 @@
 
 The **Resource Optimizer API** is a system designed to optimize the usage of system resources such as CPU, memory, and temporary files for improved performance and efficiency. This API allows users to interact with the system's resource management features through a set of RESTful API endpoints, offering solutions for real-time optimization of resources.
 
-### Authors:
-
-- Yashvanth P S
-
 ---
 
 ## Table of Contents
@@ -18,8 +14,7 @@ The **Resource Optimizer API** is a system designed to optimize the usage of sys
 4. [Description About Each Module](#description-about-each-module)
 5. [Implementation Details and Tools Used](#implementation-details-and-tools-used)
 6. [Working Procedure](#working-procedure)
-7. [Screenshots](#screenshots)
-8. [Conclusion](#conclusion)
+7. [Conclusion](#conclusion)
 
 ---
 
